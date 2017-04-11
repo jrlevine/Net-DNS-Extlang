@@ -12,7 +12,7 @@ Net::DNS::Extlang - DNS extension language
 
 =head1 Version
 
-Version 0,1.
+Version 0.1.
 
 =head1 SYNOPSIS
 

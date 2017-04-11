@@ -1,6 +1,7 @@
 ## NSEC and NSEC3 bitmaps and base32
 package Net::DNS::Extlang::Nsechelp;
 
+our $VERSION = '0.1';
 =head1 NAME
 
 Net::DNS::Extlang::Nsechelp - Helper routines for compiled NSEC and

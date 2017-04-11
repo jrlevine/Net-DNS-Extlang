@@ -1,6 +1,7 @@
 ## RRSIG time stamp for T and T6
 package Net::DNS::Extlang::Time;
 
+our $VERSION = '0.1';
 =head1 NAME
 
 Net::DNS::Extlang::Time - Helper routines for timestamps
