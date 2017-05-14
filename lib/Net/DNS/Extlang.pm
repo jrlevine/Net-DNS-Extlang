@@ -1,8 +1,5 @@
 package Net::DNS::Extlang;
 
-#
-# $Id$
-#
 use 5.20.0;
 our $VERSION = '0.1';
 
